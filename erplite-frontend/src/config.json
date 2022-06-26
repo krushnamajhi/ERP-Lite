@@ -1,0 +1,22 @@
+{
+    "API":{
+        "BaseUrl":"http://localhost:8080"
+    },
+    "RecordTypes":{
+        "item": {
+            "type":"item",
+            "name":"Item",
+            "plural":"Items"
+        },
+        "user": {
+            "type":"user", 
+            "name":"User",
+            "plural":"Users"
+        },
+        "baseunit":{
+            "type":"baseunit",
+            "name":"Unit",
+            "plural":"Units"
+        }
+    }
+}
